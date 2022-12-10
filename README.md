@@ -129,7 +129,7 @@ Puedes personalizar tu página de inicio añadiendo contenido a un archivo `inde
   Historic note: previous version checked the file path. Previous version checked the front matter formatting.
 -->
 
-<details id=4 open>
+<details id=4>
 <summary><h2>Paso 4: Crea un post en el blog</h2></summary>
 
 _¡Tu página de inicio se ve genial! :cowboy_hat_face:_
@@ -177,7 +177,7 @@ Para más información sobre la configuración del _frontmatter_, consulta la [d
   Define terms and link to docs.github.com.
 -->
 
-<details id=5>
+<details id=5 open>
 <summary><h2>Paso 5: Fusiona tu pull request</h2></summary>
 
 _¡Buen trabajo :heart:! Todo el mundo podrá leer tu blog en un momento..._
