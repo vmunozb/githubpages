@@ -177,7 +177,7 @@ Para más información sobre la configuración del _frontmatter_, consulta la [d
   Define terms and link to docs.github.com.
 -->
 
-<details id=5 open>
+<details id=5>
 <summary><h2>Paso 5: Fusiona tu pull request</h2></summary>
 
 _¡Buen trabajo :heart:! Todo el mundo podrá leer tu blog en un momento..._
@@ -197,7 +197,7 @@ Ahora puedes [fusionar](https://docs.github.com/en/get-started/quickstart/github
   Review what we learned, ask for feedback, provide next steps.
 -->
 
-<details id=X>
+<details id=X open>
 <summary><h2>Finalización</h2></summary>
 
 _¡Enhorabuena, has completado el curso!_
