@@ -104,7 +104,7 @@ Tenemos que utilizar un tema preparado para blogs. Para esta actividad, utilizar
   Historic note: previous version checked the homepage content was not empty.
 -->
 
-<details id=3 open>
+<details id=3>
 <summary><h2>Paso 3: Personaliza tu página de inicio</h2></summary>
 
 _¡Buen trabajo estableciendo el tema! :sparkles:_
@@ -129,7 +129,7 @@ Puedes personalizar tu página de inicio añadiendo contenido a un archivo `inde
   Historic note: previous version checked the file path. Previous version checked the front matter formatting.
 -->
 
-<details id=4>
+<details id=4 open>
 <summary><h2>Paso 4: Crea un post en el blog</h2></summary>
 
 _¡Tu página de inicio se ve genial! :cowboy_hat_face:_
