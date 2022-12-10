@@ -18,7 +18,7 @@ _Crea un sitio o un blog a partir de tus repositorios de GitHub con GitHub Pages
   Do not use quotes on the <details> tag attributes.
 -->
 
-<!--step0-->
+<!--step0
 
 Con GitHub Pages, puedes alojar blogs de proyectos, documentación, currículos, portafolios o cualquier otro contenido estático que desees. Tu repositorio de GitHub puede convertirse fácilmente en su propio sitio web. En este curso, te mostraremos cómo configurar tu propio sitio o blog utilizando GitHub Pages.
 
@@ -38,7 +38,7 @@ Con GitHub Pages, puedes alojar blogs de proyectos, documentación, currículos,
    ![Create a new repository](https://user-images.githubusercontent.com/1221423/169618722-406dc508-add4-4074-83f0-c7a7ad87f6f3.png)
 3. Una vez creado tu nuevo repositorio, espera unos 20 segundos y actualiza la página. Sigue las instrucciones paso a paso en el README del nuevo repositorio.
 
-<!--endstep0-->
+endstep0-->
 
 <!--
   <<< Author notes: Step 1 >>>
@@ -48,7 +48,7 @@ Con GitHub Pages, puedes alojar blogs de proyectos, documentación, currículos,
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1>
+<details id=1 open>
 <summary><h2>Paso 1: Habilita GitHub Pages</h2></summary>
 
 _¡Bienvenida/o a GitHub Pages y Jekyll :tada:!_
