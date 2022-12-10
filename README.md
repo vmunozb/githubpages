@@ -72,7 +72,7 @@ El primer paso es habilitar GitHub Pages en este [repositorio](https://docs.gith
   Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
 -->
 
-<details id=2 open>
+<details id=2>
 <summary><h2>Paso 2: Configura tu sitio</h2></summary>
 
 _¡Has habilitado GitHub Pages!_ :tada:
@@ -104,7 +104,7 @@ Tenemos que utilizar un tema preparado para blogs. Para esta actividad, utilizar
   Historic note: previous version checked the homepage content was not empty.
 -->
 
-<details id=3>
+<details id=3 open>
 <summary><h2>Paso 3: Personaliza tu página de inicio</h2></summary>
 
 _¡Buen trabajo estableciendo el tema! :sparkles:_
