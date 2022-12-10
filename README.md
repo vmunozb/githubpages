@@ -48,7 +48,7 @@ endstep0-->
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1 open>
+<details id=1>
 <summary><h2>Paso 1: Habilita GitHub Pages</h2></summary>
 
 _¡Bienvenida/o a GitHub Pages y Jekyll :tada:!_
@@ -72,7 +72,7 @@ El primer paso es habilitar GitHub Pages en este [repositorio](https://docs.gith
   Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
 -->
 
-<details id=2>
+<details id=2 open>
 <summary><h2>Paso 2: Configura tu sitio</h2></summary>
 
 _¡Has habilitado GitHub Pages!_ :tada:
